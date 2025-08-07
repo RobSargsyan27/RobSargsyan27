@@ -3,6 +3,3 @@ Hi, I'm Robert, a passionate Software Engineer with a strong focus on building i
 
 ## 📈 GitHub Stats
 ![Language](https://github-readme-stats.vercel.app/api/top-langs?username=AlbertHambardzumyan&hide=CSS,HTML,M&hide_title=true&layout=compact)
-
-## 📫 How to reach me
-- [Email me](mailto:robertsargsyan6@gmail.com)
