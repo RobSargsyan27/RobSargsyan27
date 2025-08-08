@@ -6,5 +6,5 @@ I work closely with teams to understand business needs and deliver solutions tha
 ## 📈 GitHub Stats
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobSargsyan27&theme=transparent&layout=donut&hide=css,html,scss&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RobSargsyan27's Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobSargsyan27&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RobSargsyan27's" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobSargsyan27&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RobSargsyan27's Streak Stats" />
 </div>
