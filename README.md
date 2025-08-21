@@ -4,10 +4,10 @@ Hi, I'm Robert, a backend developer specializing in the MERN stack. I build effi
 I work closely with teams to understand business needs and deliver solutions that meet them. In addition to backend development, I maintain clear, up-to-date API documentation to ensure smooth collaboration across teams.
 
 ## 🌐 Websites I Manage
-- [instudy.am](https://instudy.am)  
+- <a href="https://instudy.am" target="_blank">instudy.am</a> <br>
   📚 **Online Learning Platform** – Helping students find tutors for personalized lessons.
 
-- [schoenenslotenmakerij.be](https://schoenenslotenmakerij.be)  
+- <a href="https://schoenenslotenmakerij.be/" target="_blank">schoenenslotenmakerij.be</a> <br>
   🔐 **Locksmith Services** – Providing fast emergency locksmith solutions in the local area.
 
 ## 📈 GitHub Stats
